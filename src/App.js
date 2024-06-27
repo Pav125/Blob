@@ -9,7 +9,7 @@ const App = () => {
           <li><a href="/">Blob</a></li>
         </ul>
         <ul className='navbar-right'>
-          <li><a href="https://github.com/">Github</a></li>
+          <li><a href="https://github.com/Pav125/Blob/">Github</a></li>
         </ul>
       </nav>
       <div className='header-container'>
